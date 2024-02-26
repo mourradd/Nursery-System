@@ -6,7 +6,7 @@ The nursery system is designed to manage teachers, children, and administrative 
 
 ### User Authentication and Authorization: The system has authentication mechanisms for administrators and teachers. Only registered users with valid credentials can access certain functionalities.
 
-### #User Registration: Teachers can register themselves within the system. The registration process likely involves validating input data and storing user information securely in the MongoDB database. Passwords are encrypted for security.
+### User Registration: Teachers can register themselves within the system. The registration process likely involves validating input data and storing user information securely in the MongoDB database. Passwords are encrypted for security.
 
 ###  Administrator Functionality: The system has an administrator account with static credentials. The administrator can add children to the system, manage user profiles, and possibly perform other administrative tasks.
 
